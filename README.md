@@ -1,0 +1,2 @@
+# MyCoreAngularApp
+Core Angular App
