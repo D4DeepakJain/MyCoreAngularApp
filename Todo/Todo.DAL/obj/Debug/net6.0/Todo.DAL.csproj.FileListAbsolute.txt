@@ -1,0 +1,15 @@
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\bin\Debug\net6.0\Todo.DAL.deps.json
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\bin\Debug\net6.0\Todo.DAL.dll
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\bin\Debug\net6.0\Todo.DAL.pdb
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.csproj.AssemblyReference.cache
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.AssemblyInfoInputs.cache
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.AssemblyInfo.cs
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.csproj.CoreCompileInputs.cache
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.dll
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\refint\Todo.DAL.dll
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.pdb
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\ref\Todo.DAL.dll
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\bin\Debug\net6.0\Todo.Entity.dll
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\bin\Debug\net6.0\Todo.Entity.pdb
+C:\MyApps\MyCoreAngularApp\Todo\Todo.DAL\obj\Debug\net6.0\Todo.DAL.csproj.CopyComplete

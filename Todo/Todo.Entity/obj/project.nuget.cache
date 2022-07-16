@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QUyw1WEd+vfUwNJyOioBpH+FyHDaAIvkhfUBV2T7tWGqdXxfaS9CP2SbhH8WMzYsgnXj8Emq0Ua1xeEWZ3Dx9Q==",
+  "dgSpecHash": "IvHYQw0sLlGzigYoOjtsulOUyq2Nyi4wft93TgVrg75g4cMMKO6+qkErUOzFwxNaI/AlQGn7U0G2/bcBlg23nA==",
   "success": true,
   "projectFilePath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Entity\\Todo.Entity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\deepakjain\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\deepakjain\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
