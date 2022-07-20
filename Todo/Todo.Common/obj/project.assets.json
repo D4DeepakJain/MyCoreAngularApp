@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\deepakjain\\.nuget\\packages\\": {}
+    "C:\\Users\\d4dee\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
+      "projectUniqueName": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
       "projectName": "Todo.Common",
-      "projectPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
-      "packagesPath": "C:\\Users\\deepakjain\\.nuget\\packages\\",
-      "outputPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Common\\obj\\",
+      "projectPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
+      "packagesPath": "C:\\Users\\d4dee\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\deepakjain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d4dee\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

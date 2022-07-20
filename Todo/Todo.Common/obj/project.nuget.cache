@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7G7p1SRVpfFuv8q2gM9ywnqSR1NUi5Q3MLH5O71kfxrhBuVde5Z2tNZQsdPT7OmYrt03As3IkYgrc90cU7c3BQ==",
+  "dgSpecHash": "gY58GlBSTlwEzYbPEKHo2WJrWQSgfKNELnPddVwoJWJ+R5h0b0MMz+KaclVPHnlPIUozxTmq09vM/zs0N7iOcw==",
   "success": true,
-  "projectFilePath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
+  "projectFilePath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Common\\Todo.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

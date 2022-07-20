@@ -7,14 +7,15 @@ import {Observable} from 'rxjs';
 @Injectable({
   providedIn: 'root'
 })
+
 export class TodoServiceService {
 
-  baseUrl:'https://localhost:7056/api/Todo';
+  //baseUrl : '/';
   constructor(private http:HttpClient) { 
   }
   
     getAll(): Observable<Todo[]>{
-      return this.http.get<Todo[]>(this.baseUrl);
+      return this.http.get<Todo[]>('https://localhost:7056/api/todo');
 
 
     }

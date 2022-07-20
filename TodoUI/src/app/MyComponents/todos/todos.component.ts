@@ -35,6 +35,7 @@ export class TodosComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.getallTodo();
   }
 
   deleteTodo(todo: Todo) {
@@ -46,10 +47,12 @@ export class TodosComponent implements OnInit {
   }
 
   getallTodo(){
-    this.todoService.getAll().subscribe(response => {
-      console.log(response)
+    this.todoService.getAll()
+    .subscribe(
+      response => {
+        this.todos = response;
     }
-    )
+    );
   }
 
 

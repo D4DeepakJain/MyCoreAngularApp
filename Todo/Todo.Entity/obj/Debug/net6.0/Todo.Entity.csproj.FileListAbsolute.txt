@@ -10,3 +10,15 @@ C:\MyApps\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.dll
 C:\MyApps\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\refint\Todo.Entity.dll
 C:\MyApps\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.pdb
 C:\MyApps\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\ref\Todo.Entity.dll
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\bin\Debug\net6.0\Todo.Entity.deps.json
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\bin\Debug\net6.0\Todo.Entity.dll
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\bin\Debug\net6.0\ref\Todo.Entity.dll
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\bin\Debug\net6.0\Todo.Entity.pdb
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.csproj.AssemblyReference.cache
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.AssemblyInfoInputs.cache
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.AssemblyInfo.cs
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.dll
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\ref\Todo.Entity.dll
+C:\Projects\Core-Angular\MyCoreAngularApp\Todo\Todo.Entity\obj\Debug\net6.0\Todo.Entity.pdb
