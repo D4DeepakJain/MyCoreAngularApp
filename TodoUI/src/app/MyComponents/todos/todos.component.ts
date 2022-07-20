@@ -43,7 +43,12 @@ export class TodosComponent implements OnInit {
   }
 
   addTodo(todo: Todo) {
-    console.log("add");
+    this.todoService.addTodo(todo).subscribe(
+      response => {
+        
+      }
+
+    );
   }
 
   getallTodo(){

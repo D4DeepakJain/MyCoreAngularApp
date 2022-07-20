@@ -966,19 +966,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\d4dee\\.nuget\\packages\\": {}
+    "C:\\Users\\deepakjain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.API\\Todo.API.csproj",
+      "projectUniqueName": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.API\\Todo.API.csproj",
       "projectName": "Todo.API",
-      "projectPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.API\\Todo.API.csproj",
-      "packagesPath": "C:\\Users\\d4dee\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.API\\obj\\",
+      "projectPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.API\\Todo.API.csproj",
+      "packagesPath": "C:\\Users\\deepakjain\\.nuget\\packages\\",
+      "outputPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\d4dee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deepakjain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -992,11 +992,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.BLL\\Todo.BLL.csproj": {
-              "projectPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.BLL\\Todo.BLL.csproj"
+            "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.BLL\\Todo.BLL.csproj": {
+              "projectPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.BLL\\Todo.BLL.csproj"
             },
-            "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Entity\\Todo.Entity.csproj": {
-              "projectPath": "C:\\Projects\\Core-Angular\\MyCoreAngularApp\\Todo\\Todo.Entity\\Todo.Entity.csproj"
+            "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Entity\\Todo.Entity.csproj": {
+              "projectPath": "C:\\MyApps\\MyCoreAngularApp\\Todo\\Todo.Entity\\Todo.Entity.csproj"
             }
           }
         }
@@ -1038,7 +1038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

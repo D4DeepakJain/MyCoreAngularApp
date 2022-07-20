@@ -16,10 +16,18 @@ namespace Todo.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public IActionResult GetAll()
         {
             TodoBL bl = new TodoBL();
             var data = bl.GetAll();
+            return Ok(data.Result);
+        }
+
+        [HttpPost]
+        public IActionResult AddTodo(TodoDTO todo)
+        {
+            TodoBL bl = new TodoBL();
+            var data = bl.AddTodo(todo);
             return Ok(data.Result);
         }
 
