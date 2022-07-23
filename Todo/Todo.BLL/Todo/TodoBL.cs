@@ -17,7 +17,7 @@ namespace Todo.BLL.Todo
             return dal.GetALL();
         }
 
-        public Task<List<TodoDTO>> AddTodo(TodoDTO todo)
+        public Task<TodoDTO> AddTodo(TodoDTO todo)
         {
             TodoDAL dal = new TodoDAL();
 

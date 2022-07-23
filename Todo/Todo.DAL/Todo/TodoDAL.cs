@@ -49,7 +49,7 @@ namespace Todo.DAL.Todo
 
         }
 
-        public async Task<List<TodoDTO>> AddTodo(TodoDTO todo)
+        public async Task<TodoDTO> AddTodo(TodoDTO todo)
         {
             List<TodoDTO> l = new List<TodoDTO>();
            
@@ -57,12 +57,13 @@ namespace Todo.DAL.Todo
                 var database = mongoClient.GetDatabase("TodoDB");
                 var collection = database.GetCollection<TodoDTO>("TodoList");
 
-                collection.InsertOne(todo);
+               collection.InsertOne(todo);
+            return todo;
 
-                return await GetALL();
 
 
-           
+
+
             }
 
 

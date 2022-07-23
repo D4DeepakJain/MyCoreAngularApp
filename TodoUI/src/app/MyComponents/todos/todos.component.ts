@@ -15,24 +15,7 @@ export class TodosComponent implements OnInit {
   
   constructor(private todoService: TodoServiceService) {
 
-    
-
-
-
-    // this.todos = [
-    //   {
-    //     id: "1",
-    //     title: "T1",
-    //     desc: "d1",
-    //     isactive: true
-    //   }, {
-    //     id: "2",
-    //     title: "T2",
-    //     desc: "d2",
-    //     isactive: true
-    //   }
-    // ]
-  }
+ }
 
   ngOnInit(): void {
     this.getallTodo();
@@ -45,19 +28,23 @@ export class TodosComponent implements OnInit {
   addTodo(todo: Todo) {
     this.todoService.addTodo(todo).subscribe(
       response => {
-        
+        this.todoService.getAll()
+    .subscribe(
+      response => {
+        this.todos = response;        
+    }
+    );
       }
 
     );
+    this.getallTodo();
   }
 
   getallTodo(){
     this.todoService.getAll()
     .subscribe(
       response => {
-        this.todos = response;
-
-        
+        this.todos = response;        
     }
     );
   }
